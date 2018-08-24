@@ -1,0 +1,50 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            你好啊
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+            傻逼
+        </template>
+    </category>
+
+    <category>
+        <pattern>打开收音机</pattern>
+        <template>
+            好啊，正在打开收音机
+        </template>
+    </category>
+
+    <category>
+        <pattern>关上收音机</pattern>
+        <template>
+            好啊，正在关上收音机
+        </template>
+    </category>
+
+    <category>
+        <pattern>几点了</pattern>
+        <template> 
+            我看看手表
+        </template>
+    </category>
+    <category>
+        <pattern>讲个笑话</pattern>
+        <template>
+            我打开我的小本本
+        </template>
+    </category>
+    <category>
+        <pattern>看看天气</pattern>
+        <template>
+            我夜观天象
+        </template>
+    </category>
+</aiml>
